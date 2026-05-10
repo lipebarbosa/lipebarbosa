@@ -1,47 +1,42 @@
+<h2 align="center">Felipe Barbosa</h2>
+
+<p align="center">
+  <b>Software Engineer & Tech Instructor</b><br>
+  Especialista no ecossistema Java, desenvolvendo soluções de alta performance com foco em sistemas reativos, escalabilidade e arquiteturas modernas.
+</p>
+
+<p align="center">
+  Atualmente, divido meu tempo entre a construção de sistemas financeiros resilientes e a mentoria de novos talentos na <b>Happy</b>, onde foco no ensino de POO, lógica avançada e boas práticas de engenharia de software (SOLID & Clean Code). Tenho sólida experiência com Spring Boot 3, arquitetura reativa com WebFlux e orquestração de ambientes com Docker.
+</p>
+
+<p align="center">
+  Backend Developer | Java • Spring Boot • WebFlux • Docker • SQL • TypeScript
+</p>
+
+---
+
+<h3 align="center">Tecnologias & Ferramentas</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,docker,postgres,mongodb,redis,maven,git,ts,js,react,html,css,aws,githubactions" />
+</p>
+
+---
+
+<h3 align="center">Estatísticas de Contribuição</h3>
+
 <div align="center">
-  <h1 style="border-bottom: 2px solid #007ACC; padding-bottom: 10px;">
-    Olá, eu sou o Felipe 👋
-  </h1>
-
-  <h3>
-    Desenvolvedor Backend | Java • Spring Boot • APIs REST
-  </h3>
-
-  <p>
-    Desenvolvedor backend com foco no ecossistema <strong>Java e Spring Boot</strong>, 
-    atuando na criação de <strong>APIs REST</strong> e no desenvolvimento de soluções bem estruturadas,
-    seguindo boas práticas e arquitetura em camadas.
-    <br/><br/>
-    Atualmente conciliando estudos, projetos práticos e experiência profissional, 
-    com foco em evoluir continuamente como desenvolvedor backend.
-  </p>
+  <img src="https://streak-stats.demolab.com?user=felipedbarbosa&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
 
-### 🧠 Minha Stack
+<h3 align="center">Projetos em Destaque</h3>
 
-<p align="left">
-  <code><img width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java"/></code>&nbsp;
-  <code><img width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" title="Spring Boot"/></code>&nbsp;
-  <code><img width="42px" src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" title="REST APIs"/></code>&nbsp;
-  <code><img width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" title="JPA / Hibernate"/></code>&nbsp;
-  <code><img width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="SQL"/></code>&nbsp;
-  <code><img width="42px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/flyway.svg" title="Flyway"/></code>&nbsp;
-  <code><img width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker"/></code>&nbsp;
-  <code><img width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git"/></code>&nbsp;
-  <code><img width="42px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/apachekafka.svg" title="Kafka"/></code>&nbsp;
-  <code><img width="42px" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" title="AWS"/></code>&nbsp;
-
+<p align="center">
+  🚀 <b>Finance Dashboard:</b> Plataforma reativa para monitoramento de ativos financeiros em tempo real, utilizando WebFlux, WebSockets e integração com APIs globais de mercado.
 </p>
 
-
----
-
-### Vamos conversar?
-
-Estou sempre aberto a trocar ideias sobre **desenvolvimento backend**, 
-projetos em **Java** e aprendizado contínuo na área de tecnologia.
-
-Conecte-se comigo no [LinkedIn](https://linkedin.com/in/felipedbarbosa/) 
-ou explore meus repositórios aqui no GitHub.
+<p align="center">
+  🛡️ <b>Arquitetura Limpa & Testes:</b> Aplicação rigorosa de testes unitários e de integração com JUnit 5, Mockito e Testcontainers para garantir resiliência em ambientes de missão crítica.
+</p>
