@@ -22,7 +22,7 @@
 <h3 align="center">Tecnologias & Ferramentas</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,docker,postgres,mongodb,redis,maven,git,ts,js,react,angular,html,css,aws,githubactions" />
+  <img src="https://skillicons.dev/icons?i=java,spring,docker,postgres,mongodb,redis,maven,git,ts,js,react,angular,html,css,aws," />
 </p>
 
 ---
