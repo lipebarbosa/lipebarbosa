@@ -26,7 +26,7 @@
 <h3 align="center">Estatísticas de Contribuição</h3>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=lipedbarbosa&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=lipebarbosa&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
