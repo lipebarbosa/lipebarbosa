@@ -6,15 +6,7 @@
 </p>
 
 <p align="center">
-  Atualmente, divido meu tempo entre a construção de sistemas financeiros resilientes e a mentoria de novos talentos na <b>Happy</b>, onde foco no ensino de POO, lógica avançada e boas práticas de engenharia de software (SOLID & Clean Code). Tenho sólida experiência com Spring Boot 3, arquitetura reativa com WebFlux e orquestração de ambientes com Docker.
-</p>
-
-<p align="center">
-  Explorando também integração de IA generativa e execução agêntica em aplicações backend (ex: API do Gemini).
-</p>
-
-<p align="center">
-  Backend Developer | Java • Spring Boot • WebFlux • Angular • Docker • SQL • TypeScript
+  Programador Backend | Java & Spring Boot Maceió, AL | Ciência da Computação (AFYA Unima, 2024–2028) Construo APIs RESTful e serviços backend com Java 17/21 e Spring Boot 3.x. Trabalho com código limpo, testes automatizados e aprendo construindo projetos reais.
 </p>
 
 ---
